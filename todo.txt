@@ -1,0 +1,17 @@
+passwoerter muss verschluesselt werden (erledigt)
+
+GET methoden muss in POST umgeschirben werden (erledigt)
+
+Fragen in Kategorien einteilen (erlegigt)
+
+Antwormoeglichkeiten durchmischen (erledigt)
+
+E-Mail verifizieren
+
+password mit E-Mail zuruecksetzen
+
+Beim erstellen abschecken, ob der user schon vergeben ist
+
+Adminebene User loeschen. Fragen und Antworten bearbeiten. Bilder einfuegen
+
+schutz vor sql injektion (erledigt)
